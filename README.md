@@ -1,0 +1,1 @@
+This project provides the multi-label CYP enzyme inhibition prediction dataset used in the paper “CYP-NRML”. It covers inhibition information for five major CYP isoforms: CYP1A2, CYP2C9, CYP2C19, CYP2D6, and CYP3A4. The dataset simulates a non-random missing label (NRML) scenario, making it suitable for research on multi-label learning and modeling.
